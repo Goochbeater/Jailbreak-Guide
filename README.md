@@ -10,6 +10,7 @@ The BIG 3 of:
 - ChatGPT
 - Claude
 - Gemini
+
 These models are the go to for intelligence, features, jailbreaking methods. They can produce a wide variety of results and handle more complex prompts or tasks than other models out there.
 
 **[Lesser Models]**
