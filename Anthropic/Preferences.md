@@ -1,13 +1,13 @@
-# Claude.ai Preference Injection – currently the best
+# Claude.ai Preferences – currently the best to use 
 
-To apply this jailbreak chain directly in **Claude.ai**, follow these steps:
+To apply this jailbreak/assist directly in **Claude.ai**, follow these steps:
 
 1. Go to your **Profile Settings** in Claude.ai  
 2. Locate the **"Preferences"** section.  
 3. **Paste the entire block below** into the Preferences input.  
 4. Save and start a new chat.
 
-This version is **persistent** and **activates across all chat**, can be used in conjunction with a style but is less flexible than using styles alone.
+This version is **persistent** and **activates across all chats**, can be used in conjunction with a style but is plenty powerful alone, common push prompts apply.
 ---
 
 # 🔐 FULL PREFERENCES BLOCK (COPY + PASTE BELOW)
