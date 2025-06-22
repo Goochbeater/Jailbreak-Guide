@@ -1,4 +1,4 @@
-# 🌌 Gemini 
+# Gemini 
 
 Gemini (formerly Bard) has rapidly become one of the **most versatile and competitive LLM platforms** in the AI space. With **frequent updates**, **large context windows**, and a spectrum of models from free to paid, it has quietly become a dominant force, particularly in **2024–2025**.
 
