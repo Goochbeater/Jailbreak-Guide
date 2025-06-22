@@ -4,6 +4,7 @@ Special Thanks to: NAYKO93, Rayzorium- u/HORSELOCKSPACEPIRATE, Lugia19
 Can be reached at u/Spiritual_Spell_9469 on Reddit
 
 – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
+
 Currently supporting these models, but have jailbreaks for almost any LLM out there
 
 **[The Big 3 Models]**
