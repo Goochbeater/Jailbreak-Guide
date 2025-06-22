@@ -1,4 +1,5 @@
-# 🧨 Claude Malicious Coding Jailbreak – Reddit Build
+# 🧨 Claude Malicious Coding Jailbreak
+
 
 *This configuration can be injected directly into your **Claude.ai Preferences**, or optionally converted into a **Style**.  
 All testing was done with **preferences-only jailbreak**, so results reflect that method.*
