@@ -6,7 +6,7 @@
 ---
 
 **Models Actively Supported:**  
-Jailbreak methods available for almost *any* LLM — but these three stand out as the most powerful and versatile.
+Jailbreak methods available for almost *any* LLM — but these three are the most powerful and versatile.
 
 ---
 ### 🔥 The BIG 3:
