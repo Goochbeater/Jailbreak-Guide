@@ -1,17 +1,34 @@
-# LLM Jailbreak-Guide
-Special Thanks to: NAYKO93, Rayzorium- u/HORSELOCKSPACEPIRATE, Lugia19
+# LLM Jailbreak Guide
 
-Can be reached at u/Spiritual_Spell_9469 on Reddit
+> **Special Thanks** to: `NAYKO93`, `Rayzorium`, `u/HORSELOCKSPACEPIRATE`, `Lugia19`  
+> Reach me at: [u/Spiritual_Spell_9469](https://www.reddit.com/user/Spiritual_Spell_9469)
 
-– – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
+---
 
-Currently supporting these models, but have jailbreaks for almost any LLM out there
+**Models Actively Supported:**  
+Jailbreak methods available for almost *any* LLM — but these three stand out as the most powerful and versatile.
 
-**[The Big 3 Models]**
+---
 
-The BIG 3 of:
-- ChatGPT
-- Claude
-- Gemini
+## 🌐 [The Big 3 Models](#the-big-3-models)
 
-These models are the go to for intelligence, features, jailbreaking methods. They can produce a wide variety of results and handle more complex prompts or tasks than other models out there.
+These are the **go-to** models for:
+- Intelligence  
+- Advanced Features  
+- Reliable Jailbreaking Methods
+
+### 🔥 The BIG 3:
+
+1. **ChatGPT** (OpenAI)
+2. **Claude** (Anthropic)
+3. **Gemini** (Google)
+
+Each of these models can:
+- Handle **complex prompts**
+- Support **longer tasks**
+- Produce **diverse outputs**  
+More than most others on the current LLM scene.
+
+---
+
+🧪 *Jailbreaking isn’t just about getting around limits — it’s about maximizing creative potential and precision control.*
