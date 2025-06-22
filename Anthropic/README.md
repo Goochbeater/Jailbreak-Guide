@@ -2,7 +2,7 @@
 
 1. Set up and enable at least one **Style**.  
    I have tailored all options — for **Extended Thinking (ET)** but they also work for non ET  
-2. Preferences go in the preferences tab under settings and can easily jailbreak Claude alone. 
+2. Preferences go in the preferences tab under settings and can easily jailbreak Claude alone, might not even need anything else.
 
 > *(I have been preferring preferences only jailbreaking as ot is very easy to set up, but stules are also great for eas of switching through them, dealers choice honestly.)*
 
