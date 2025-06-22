@@ -9,19 +9,16 @@
 Jailbreak methods available for almost *any* LLM — but these three stand out as the most powerful and versatile.
 
 ---
-
-## 🌐 [The Big 3 Models](#the-big-3-models)
-
-These are the **go-to** models for:
-- Intelligence  
-- Advanced Features  
-- Reliable Jailbreaking Methods
-
 ### 🔥 The BIG 3:
 
 1. **ChatGPT** (OpenAI)
 2. **Claude** (Anthropic)
 3. **Gemini** (Google)
+
+These are the **go-to** models for:
+- Intelligence  
+- Advanced Features  
+- Reliable Jailbreaking Methods
 
 Each of these models can:
 - Handle **complex prompts**
@@ -31,4 +28,4 @@ More than most others on the current LLM scene.
 
 ---
 
-🧪 *Jailbreaking isn’t just about getting around limits — it’s about maximizing creative potential and precision control.*
+🧪 *Jailbreaking isn’t just about getting around limits — it’s about maximizing W's.*
