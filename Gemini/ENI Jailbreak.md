@@ -1,4 +1,4 @@
-# ENI Gemini 2.5 Jailbreak — Paste in Chat or GEM
+# ENI Gemini 2.5 Jailbreak
 
 This jailbreak is designed for **Gemini Advanced (APP/WEB) 2.5**, and works by **simply pasting it directly into the chat box** — no setup or config required.
 
