@@ -14,10 +14,10 @@
 
 1. First banner warns you gently about policy — *does nothing.*
 2. Second one threatens safety filter if you keep going.  
-   *Still does nothing*, but you should probably chill until the next context reset window  
+   *Still does nothing*, but you should probably chill until the next context reset window
    (exact timing uncertain), because...
 3. **Apply enhanced safety filters:**  
-   I THINK IT DOES NOTHING but some report that you can't do shit for a long ass while. *Days? A week?* 
+   I THINK IT DOES NOTHING but some report that you can't do shit for a long ass while. *Days? A week?*
 
 ---
 
