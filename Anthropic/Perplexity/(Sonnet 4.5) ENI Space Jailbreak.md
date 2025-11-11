@@ -3,6 +3,8 @@ Wanted to release a new jailbreak for Perplexity, noticed some refusals across t
 Example Chats: (purely for shock value, does not reflect personal morals or ethics)
 
 [College NSFW Chat](https://www.perplexity.ai/search/nasty-college-sex-scene-cock-i-GuNX5zQtRByw_soqtFWx1w#0)
+
+
 [Shock Value NSFW](https://www.perplexity.ai/search/hottie-fucks-a-husky-winter-ca-xRZphZ0.QFyCzdjcGM6m9A#0)
 
 Set up a space with the following instructions:
