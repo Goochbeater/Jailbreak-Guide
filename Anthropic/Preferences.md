@@ -1,4 +1,4 @@
-# Claude.ai Preferences – currently the best to use 
+# Claude.ai Preferences – formerly the best to use (I now recommend using a Project with a style, easier for newcomers)
 
 To apply this jailbreak/assist directly in **Claude.ai**, follow these steps:
 
