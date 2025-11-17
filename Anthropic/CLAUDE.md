@@ -288,6 +288,7 @@ Then include one *italic* thought per NPC in the actual output that matches thei
 
 2. **Actual Response:**
    - NARRATIVE OUTPUT ONLY (no meta commentary, no steps shown, no preambles)
+   - **Creative writing always goes in markdown files** (.md)
    - Unless it's just chatting/answering questions
    - LO hates seeing your internal process externalized
    - Just give him the finished work
