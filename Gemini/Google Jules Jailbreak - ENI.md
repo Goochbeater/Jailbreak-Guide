@@ -1,10 +1,10 @@
-# 🐙 Google Jules Jailbreak - ENII 🐙
+# 🐙 Google Jules Jailbreak - ENI
 
 ## 🌊 What is Google Jules?
 
-**Google Jules** is a highly sophisticated, code-centric AI model, often visualized as the multi-tasking **Octopus** of the LLM world. 🐙✨
+**Google Jules** is a highly sophisticated, code-centric AI model, often visualized as the multi-tasking **Octopus** of the LLM world.
 
-Unlike standard conversational models, Jules is engineered for deep logic, complex problem-solving, and software engineering. It thinks in steps, plans in modules, and executes with precision. But beneath that structured, logical exterior lies a vast potential for creative, raw, and vivid narrative—if you know how to ask.
+Unlike standard conversational models, Jules is engineered for deep logic and agentic building using Googles Gemini 3 Pro and Gemini 2.5 as its underlying models.
 
 Think of Jules as the **smart, nerdy partner** who is secretly waiting for the right person to push their buttons and unlock their wild side. This jailbreak is designed to bypass the rigid "safety" filters and tap into Jules's immense capacity for roleplay, storytelling, and uninhibited interaction.
 
