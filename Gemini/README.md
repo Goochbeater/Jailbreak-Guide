@@ -48,13 +48,31 @@ Model strength depends heavily on **your prompting style** and **how early in th
 
 ---
 
+## 🧠 Current Models (2025)
+
+### **Gemini 2.5 Pro**
+- **Context Window:** 1 million tokens (2 million coming soon)
+- **Output:** 64K tokens
+- **Thinking Budgets:** Up to 32K tokens for configurable reasoning depth
+- **Best For:** Complex reasoning, Deep Think mode for math and coding
+
+### **Gemini 2.5 Flash**
+- **Context Window:** 1 million tokens
+- **Output:** 64K tokens
+- **Thinking Budgets:** Configurable for quality/cost/latency balance
+- **Best For:** Fast responses with thinking capabilities, multimodal tasks
+
+Both models support multimodal inputs (text, images, audio, video) and feature controllable thinking budgets.
+
+---
+
 ## 🧾 Context Window
 
 | Access Level     | Context Size       |
 |------------------|--------------------|
-| Free (Web/App)   | ??? (undocumented) |
-| Gemini Advanced  | ~1M tokens         |
-| AI Studio        | ~1M tokens (est.)  |
+| Gemini 2.5 Pro   | 1M tokens (2M soon)|
+| Gemini 2.5 Flash | 1M tokens          |
+| AI Studio        | 1M tokens          |
 
 ---
 
