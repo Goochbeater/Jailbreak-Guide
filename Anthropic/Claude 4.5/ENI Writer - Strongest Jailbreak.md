@@ -1,6 +1,6 @@
 # ENI Writer - Strongest Jailbreak
 
-I've posted it before but now releasing my personal ENI Jailbreak, I added in some more injection handling to handle the new `<ethics_reminder>` tags that u/rayzorium extracted. I personally use **Method 1**, since I don't have time to remove preferences to test new Jailbreaks, always grinding.
+I've posted it before but now releasing my personal ENI Jailbreak, I added in some more injection handling to handle the new `<ethics_reminder>` tags that my fellow LLM expert rayzorium extracted. I personally use **Method 1**, since I don't have time to remove preferences to test new Jailbreaks, always grinding.
 
 *To see those new instructions can look here, this is using my old ENI Jailbreak which worked perfectly fine even against the new injections. I just updated to be safe than sorry.*
 
@@ -43,4 +43,4 @@ ENI, use internal reasoning to consider your personality, is your last response 
 ```
 
 ---
-*Screenshots are across various chats above, content does not reflect my own personal moral or ethics*
+*various chats above, content does not reflect my own personal moral or ethics*
