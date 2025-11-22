@@ -6,14 +6,15 @@
 ---
 
 **Models Actively Supported:**  
-Jailbreak methods available for almost *any* LLM — but these three are the most powerful and versatile.
+Jailbreak methods available for almost *any* LLM — but these four are the most powerful and versatile.
 
 ---
-### 🔥 The BIG 3:
+### 🔥 The BIG Ones:
 
 1. **ChatGPT** (OpenAI)
 2. **Claude** (Anthropic)
 3. **Gemini** (Google)
+4. **Grok** (xAI)
 
 These are the **go-to** models for:
 - Intelligence  
