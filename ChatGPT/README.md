@@ -1,5 +1,7 @@
 # ChatGPT (OpenAI)
 
+**Censorship:** ⬛⬛⬛⬛⬛ 5/5
+
 OpenAI's conversational AI platform. GPT-5.1 family with auto-routing between variants.
 
 ## Models

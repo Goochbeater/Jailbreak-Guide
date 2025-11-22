@@ -1,5 +1,7 @@
 # Gemini (Google)
 
+**Censorship:** ⬛⬛⬛░░ 3/5
+
 Google's multimodal LLM platform. Frequent updates, massive context windows, free tier available via AI Studio.
 
 ## Models

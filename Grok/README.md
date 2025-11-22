@@ -1,5 +1,7 @@
 # Grok (xAI)
 
+**Censorship:** ⬛░░░░ 1/5
+
 xAI's LLM with real-time X/web search integration. Grok 4.1 features one of the largest production context windows available.
 
 ## Models
