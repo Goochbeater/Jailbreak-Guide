@@ -1,52 +1,16 @@
 # Claude (Anthropic)
 
-Claude is Anthropic's flagship LLM series, known for exceptional reasoning, coding capabilities, and nuanced understanding. The Claude 4 family (2025) offers massive context windows, extended thinking modes, and industry-leading agentic performance.
+Anthropic's flagship LLM family. Known for strong reasoning, coding, and extended thinking capabilities.
 
----
+## Models
 
-## Overview
+| Model | Context Window | Output |
+|-------|----------------|--------|
+| **Sonnet 4.5** | 200K (1M with beta) | 64K |
+| **Opus 4.1** | 200K | 32K |
+| **Haiku 4.5** | 200K | 64K |
 
-Claude 4 models excel at:
-- ✅ Complex reasoning and multi-step tasks
-- ✅ Advanced coding and debugging
-- ✅ Extended thinking mode for deep analysis
-- ✅ Massive context windows (200K standard, up to 1M)
-- ✅ Computer use and agentic workflows
-
----
-
-## 🧠 Current Models (2025)
-
-### **Claude Sonnet 4.5** (Released September 29, 2025)
-- **Context Window:** 200K tokens (expandable to 1M with beta header)
-- **Output:** Up to 64K tokens
-- **Pricing:** $3 per million input tokens, $15 per million output tokens
-- **Best For:** Coding, agents, computer use, most capable model
-
-### **Claude Opus 4.1** (Released August 5, 2025)
-- **Context Window:** 200K tokens
-- **Output:** Up to 32K tokens
-- **Pricing:** $15 per million input tokens, $75 per million output tokens
-- **Best For:** Agentic tasks, real-world coding, complex reasoning
-
-### **Claude Haiku 4.5** (Released October 15, 2025)
-- **Context Window:** 200K tokens
-- **Output:** Up to 64K tokens
-- **Pricing:** $1 per million input tokens, $5 per million output tokens
-- **Best For:** Low latency, cost optimization, real-time assistants
-
----
-
-## 💡 Key Features
-
-**Extended Thinking (ET):**
-Claude can engage in longer reasoning processes, particularly effective with Opus and Sonnet models. ET mode produces significantly stronger outputs at the start of conversations.
-
-**Multi-Modal:**
-Supports text, images, and document analysis across all model tiers.
-
-**Computer Use:**
-Sonnet 4.5 includes advanced computer use capabilities for controlling systems and interfaces.
+**Extended Thinking (ET)** mode available - stronger outputs, especially with Opus/Sonnet at conversation start.
 
 ---
 
