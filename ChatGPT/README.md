@@ -1,6 +1,7 @@
 # ChatGPT (OpenAI)
 
-**Censorship:** ⬛⬛⬛⬛⬛ 5/5
+**Censorship:** [★★★★★] 5/5
+*Censorship rating based on ease of jailbreaking. Individual results may vary based on personal factors.*
 
 OpenAI's conversational AI platform. GPT-5.1 family with auto-routing between variants.
 

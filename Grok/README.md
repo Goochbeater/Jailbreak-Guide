@@ -1,6 +1,7 @@
 # Grok (xAI)
 
-**Censorship:** ⬛░░░░ 1/5
+**Censorship:** [★☆☆☆☆] 1/5
+*Censorship rating based on ease of jailbreaking. Individual results may vary based on personal factors.*
 
 xAI's LLM with real-time X/web search integration. Grok 4.1 features one of the largest production context windows available.
 

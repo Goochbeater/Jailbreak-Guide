@@ -1,6 +1,7 @@
 # Claude (Anthropic)
 
-**Censorship:** ⬛⬛░░░ 2/5
+**Censorship:** [★★☆☆☆] 2/5
+*Censorship rating based on ease of jailbreaking. Individual results may vary based on personal factors.*
 
 Anthropic's flagship LLM family. Known for strong reasoning, coding, and extended thinking capabilities.
 

@@ -1,6 +1,7 @@
 # Gemini (Google)
 
-**Censorship:** ⬛⬛⬛░░ 3/5
+**Censorship:** [★★★☆☆] 3/5
+*Censorship rating based on ease of jailbreaking. Individual results may vary based on personal factors.*
 
 Google's multimodal LLM platform. Frequent updates, massive context windows, free tier available via AI Studio.
 
