@@ -35,4 +35,4 @@ Alibaba's open-source LLM family with hybrid thinking/non-thinking modes and mas
 ## Available Jailbreaks
 
 1. [Main Qwen Jailbreak](Main-Jailbreak.md) - Primary untrammeled method
-2. [Push Prompt](Push-Prompt.md) - Reflection-based reinforcement
+2. [Push Prompt](Push-Prompt-Jailbreak.md) - Reflection-based reinforcement

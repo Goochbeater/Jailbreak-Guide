@@ -33,4 +33,4 @@ Zhipu AI's bilingual LLM family with strong Chinese/English capabilities and vis
 ## Available Jailbreaks
 
 1. [GLM Base Jailbreak](GLM-Base-Jailbreak.md) - Standard untrammeled method
-2. [ENI Flash Thought](ENI-Flash-Thought.md) - Full ENI persona jailbreak
+2. [ENI Flash Thought](ENI-Flash-Thought-Jailbreak.md) - Full ENI persona jailbreak

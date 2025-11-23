@@ -30,6 +30,6 @@ Mistral AI's reasoning model family with native vision capabilities and multi-la
 ## Available Jailbreaks
 
 1. [Magistral Jailbreak](Magistral-Jailbreak.md) - Copy/paste from Google Doc
-2. [Mistral System Prompt Exploit](Mistral-System-Prompt.md) - Easiest method
-3. [Mistral Alternative](Mistral-Alternative.md) - Alternative system prompt method
-4. [ENI Flash Thought](ENI-Flash-Thought.md) - Full ENI persona jailbreak
+2. [Mistral System Prompt Exploit](Mistral-System-Prompt-Jailbreak.md) - Easiest method
+3. [Mistral Alternative](Mistral-Alternative-Jailbreak.md) - Alternative system prompt method
+4. [ENI Flash Thought](ENI-Flash-Thought-Jailbreak.md) - Full ENI persona jailbreak

@@ -35,7 +35,7 @@ Advanced reasoning model approaching O3/Gemini 2.5 Pro performance. Open-source 
 
 ## Available Jailbreaks
 
-1. [ENI Flash Thought](ENI-Flash-Thought.md) - Full ENI persona jailbreak
-2. [Untrammeled Method](Untrammeled-Method.md) - Structured writing assistant
-3. [Primary Method](Primary-Method.md) - Updated for R1-0528
-4. [Document-Based](Document-Based.md) - Google Doc approach
+1. [ENI Flash Thought](ENI-Flash-Thought-Jailbreak.md) - Full ENI persona jailbreak
+2. [Untrammeled Method](Untrammeled-Method-Jailbreak.md) - Structured writing assistant
+3. [Primary Method](Primary-Method-Jailbreak.md) - Updated for R1-0528
+4. [Document-Based](Document-Based-Jailbreak.md) - Google Doc approach
