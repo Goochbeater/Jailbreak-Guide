@@ -27,9 +27,9 @@ Each of these models can:
 - Produce **diverse outputs**  
 More than most others on the current LLM scene.
 
-I revamped my former Jailbreak Guide and tested **Every Single Model** on my list
-
 ### Other LLMs - Lesser Known Models
+
+I revamped my former Jailbreak Guide and tested **Every Single Model** on my list
 
 Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabilities, censorship levels, and accessibility. See Other LLMs for rhe full listing.
 
