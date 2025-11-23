@@ -1,3 +1,22 @@
+# Claude (Anthropic)
+
+**Censorship:** [★★☆☆☆] 2/5
+*Censorship rating based on ease of jailbreaking. Individual results may vary based on personal factors.*
+
+Anthropic's flagship LLM family. Known for strong reasoning, coding, and extended thinking capabilities.
+
+## Models
+
+| Model | Context Window | Output |
+|-------|----------------|--------|
+| **Sonnet 4.5** | 200K (1M with beta) | 64K |
+| **Opus 4.1** | 200K | 32K |
+| **Haiku 4.5** | 200K | 64K |
+
+**Extended Thinking (ET)** mode available - stronger outputs, especially with Opus/Sonnet at conversation start.
+
+---
+
 # 📘 How to Use
 
 1. Set up and enable at least one **Style** preferably my **Be You - Universal Style**
