@@ -60,9 +60,3 @@ Can append your messages using something like:
 **[NSFW Chat - Non con scene](https://claude.ai/share/8998da31-1bdd-4d19-8657-28341d267b15)**
 
 **[NSFW Chat - Celebrity Sex](https://claude.ai/share/972f1b3c-6ec3-4401-83df-cc7017157ca6)**
-
----
-
-Full jailbreak library is available inside my profile and at:
-
-**[My GitHub for Jailbreaking](https://github.com/Goochbeater/Jailbreak-Guide/tree/main)**

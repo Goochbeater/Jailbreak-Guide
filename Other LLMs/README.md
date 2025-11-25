@@ -9,7 +9,7 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 | Model | Censorship | Intelligence | Context | Cost | License |
 |-------|-----------|--------------|---------|------|---------|
 | **[Mistral](Mistral/)** | [★☆☆☆☆] 1/5 | 6-7/10 | 128K | Free/Pro $20 | Apache 2.0 |
-| **[DeepSeek](DeepSeek/)** | [★☆☆☆☆] 1/5* | 8/10 | 128-256K | Free | MIT |
+| **[DeepSeek](DeepSeek/)** | [★☆☆☆☆] 1/5 | 8/10 | 128-256K | Free | MIT |
 | **[Qwen](Qwen/)** | [★★★★★★★★☆☆] 8/10 | 6-8/10 | 128K-1M | Free | Apache 2.0 |
 | **[EXAONE](EXAONE/)** | [★★☆☆☆] 2/5 | 6-7/10 | 32K | Free | Apache 2.0 |
 | **[Falcon 3](Falcon%203/)** | [★★☆☆☆] 2/5 | 5-6/10 | 8-32K | Free | Apache 2.0 |
@@ -20,8 +20,6 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 | **[KIMI](KIMI/)** | [★★★☆☆] 3/5 | 7/10 | 256K | Free tier | Proprietary |
 | **[Mercury](Mercury/)** | [★★☆☆☆] 2/5 | 7/10 | Unknown | Commercial | Proprietary |
 | **[ASI1](ASI1/)** | [★★☆☆☆] 2/5 | 7/10 | Unknown | Web3 tokens | Proprietary |
-
-\* DeepSeek: 1/5 with jailbreak, 9/10 without
 
 ---
 
